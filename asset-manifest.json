@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/geofytiki-live/static/css/main.5bf31ea7.css",
-    "main.js": "/geofytiki-live/static/js/main.93f65f23.js",
+    "main.css": "/geofytiki-live/static/css/main.eed5d6a7.css",
+    "main.js": "/geofytiki-live/static/js/main.0cffc4c2.js",
     "index.html": "/geofytiki-live/index.html",
-    "main.5bf31ea7.css.map": "/geofytiki-live/static/css/main.5bf31ea7.css.map",
-    "main.93f65f23.js.map": "/geofytiki-live/static/js/main.93f65f23.js.map"
+    "main.eed5d6a7.css.map": "/geofytiki-live/static/css/main.eed5d6a7.css.map",
+    "main.0cffc4c2.js.map": "/geofytiki-live/static/js/main.0cffc4c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bf31ea7.css",
-    "static/js/main.93f65f23.js"
+    "static/css/main.eed5d6a7.css",
+    "static/js/main.0cffc4c2.js"
   ]
 }
