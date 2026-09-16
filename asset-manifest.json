@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/geofytiki-live/static/css/main.5bf31ea7.css",
+    "main.js": "/geofytiki-live/static/js/main.93f65f23.js",
+    "index.html": "/geofytiki-live/index.html",
+    "main.5bf31ea7.css.map": "/geofytiki-live/static/css/main.5bf31ea7.css.map",
+    "main.93f65f23.js.map": "/geofytiki-live/static/js/main.93f65f23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bf31ea7.css",
+    "static/js/main.93f65f23.js"
+  ]
+}
